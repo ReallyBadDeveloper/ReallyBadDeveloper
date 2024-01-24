@@ -1,5 +1,5 @@
 # ReallyBadDev
-![My banner](https://github.com/ReallyBadDeveloper/ReallyBadDeveloper/blob/main/banner.png?raw=true)
+![My banner](https://github.com/ReallyBadDeveloper/ReallyBadDeveloper/blob/main/banner2.png?raw=true)
 
 This is the GitHub of Really Bad Dev (aka Ben).
 
