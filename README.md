@@ -1,6 +1,8 @@
 # ReallyBadDev
 ![My banner](https://github.com/ReallyBadDeveloper/ReallyBadDeveloper/blob/main/banner2.png?raw=true)
 
-This is the GitHub of Really Bad Dev (aka Ben).
+# Really Bad Dev
 
-You can find my stuff [here](https://reallybaddevsite.glitch.me).
+A student programmer with too much free time.
+
+## Languages
